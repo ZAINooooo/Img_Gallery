@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="17"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="2158239294718035"
+    token="-3241777906093394930"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="39602" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3274" />
+    <task
+        name="verifier"
+        duration="360" />
+
+    <artifact
+        location="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2158239294718035"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

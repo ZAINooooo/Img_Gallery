@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zain\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_862d38a6a0322786de4d29c3524054f902d1fa9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_8117e5a4ff6702dc2232f6222d9c8640d620f8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b468e1b58cc852dbcbb99cc75fe4a03c65ded4de">
+        <dex dex="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\instant-run_993da797d8f0a3464acff4e32404abf408d431a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b7c185b71387ef5824de1e31b458131513cd273f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_3549ea826d2a7eac2cf749549c623467faf7e681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1595c957e3771fa3af7a8e5b7d90ed5b4fc2f068">
+        <dex dex="C:\Users\zain\Desktop\Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_05d049e2423839207495b27daef5989be8fba071.jar" />
+    </item>
+
+</items>
